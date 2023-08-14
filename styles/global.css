@@ -17,6 +17,18 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  --background: linear-gradient(331deg, rgba(12,7,38,0.9528186274509804) 0%, rgba(25,19,40,0.927608543417367) 61%, rgba(26,19,47,1) 100%);
+
+  --surface-primary: #111827;
+  --surface-secondary: #1F2937;
+  --surface-tertiary: #374151;
+
+  --brand-primary: #111827;
+  --brand-secondary: #FFFFFF;
+
+  --text-primary: #F9FAFB;
+  --text-secondary: #E5E7EB;
 }
 
 a {
